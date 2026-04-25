@@ -113,7 +113,7 @@ const Faq = () => {
         </div>
 
         {/* Partner List */}
-        <div className="flex flex-wrap justify-between pb-10 md:px-4">
+        <div className="flex flex-wrap items-center justify-center pb-10 md:px-4">
           {PARTNER_DATA.map((item) => (
             <Image
               key={item.id}
