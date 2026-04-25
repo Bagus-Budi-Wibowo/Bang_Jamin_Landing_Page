@@ -24,14 +24,16 @@ const Hero = () => {
       </div>
 
       {/* Decoration wave arrow for mobile */}
-      <Image
-        src="/assets/images/wave-arrow.webp"
-        alt="Cloud"
-        width={500}
-        height={300}
-        loading="lazy"
-        className="block lg:hidden absolute top-[40%] md:top-[55%] -translate-y-1/2 left-[30%] -translate-x-1/2 w-16 md:w-24 h-auto z-50 animate-bj-bounce"
-      />
+      <div className="absolute top-[41%] md:top-[55%] left-[40%] md:left-[35%] -translate-x-1/2 -translate-y-1/2 z-50">
+        <Image
+          src="/assets/images/wave-arrow.webp"
+          alt="Cloud"
+          width={500}
+          height={300}
+          loading="lazy"
+          className="block lg:hidden h-auto w-[45%] md:w-[80%] animate-bj-bounce"
+        />
+      </div>
       
       <div className="relative w-full lg:max-w-7xl px-4 mx-auto">
         {/* Heading Section */}
