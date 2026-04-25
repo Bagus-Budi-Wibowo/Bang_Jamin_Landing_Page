@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Theo",
+    "work": "Karyawan Swasta",
+    "title": "Harga Sesuai Jarak",
+    "review": "Saya belum pernah ketemu produk asuransi yang bisa kasih diskon sesuai KM kendaraan, cuma di Bang Jamin.",
+    "image": "/assets/images/character-2.webp"
+  },
+  {
+    "id": 2,
+    "name": "Agustina",
+    "work": "bu Rumah Tangga",
+    "title": "Diskon Lansia",
+    "review": "Klo gak karena Bang Jamin, saya gak tahu kalo asuransi kendaraan ngasih diskon spesial buat Lansia.",
+    "image": "/assets/images/character-3.webp"
+  },
+  {
+    "id": 3,
+    "name": "Randy",
+    "work": "Karyawan Swasta",
+    "title": "Fair & Transparan",
+    "review": "Daripada beli langsung ke asuransi, lebih baik melalui Bang Jamin, harga yang jauh lebih fair dan transparan.",
+    "image": "/assets/images/character-4.webp"
+  },
+  {
+    "id": 4,
+    "name": "Sarjan",
+    "work": "Dokter Gigi",
+    "title": "Produk Beragam",
+    "review": "Untuk variasi asuransi Kendaraan bermotor, saya rasa Bang Jamin yang paling memenuhi semua kebutuhan.",
+    "image": "/assets/images/character-5.webp"
+  }
+]

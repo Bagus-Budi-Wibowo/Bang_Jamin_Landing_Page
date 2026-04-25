@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "question": "Apa saja jenis produk asuransi yang ditawarkan oleh Bang Jamin?",
+    "answer": "<p>Bang Jamin menawarkan berbagai jenis produk asuransi; asuransi kendaraan roda empat, asuransi kendaraan roda dua, asuransi kesehatan, asuransi hewan, dan asuransi perjalanan. Untuk saat ini, yang sudah tersedia dan siap untuk Anda beli di website adalah asuransi untuk kendaraan.</p>"
+  },
+  {
+    "id": 2,
+    "question": "Bagaimana saya bisa membeli produk asuransi dari Bang Jamin?",
+    "answer": "<p>Anda dapat membeli produk asuransi dari Bang Jamin dengan menghubungi agen asuransi resmi Bang Jamin, mengunjungi situs www.bangjamin.com, atau mengunduh aplikasi seluler resmi Bang Jamin di Playstore atau Appstore.</p>"
+  },
+  {
+    "id": 3,
+    "question": "Bagaimana proses pengajuan asuransi di Bang Jamin?",
+    "answer": "<p>Proses pengajuan asuransi di Bang Jamin melibatkan mengisi formulir aplikasi, menjalani pemeriksaan kesehatan (jika diperlukan), dan menyerahkan dokumen yang diperlukan kepada agen asuransi.</p>"
+  },
+  {
+    "id": 4,
+    "question": "Berapa lama estimasi waktu yang dibutuhkan sampai status pengajuan asuransi saya disetujui?",
+    "answer": "<p>Untuk produk motor vehicle atau asuransi kendaraan, estimasi waktu pengajuan disetujui maksimal 3 hari kerja.</p>"
+  },
+  {
+    "id": 5,
+    "question": "Apakah saya bisa membeli asuransi untuk lebih dari satu jenis produk sekaligus?",
+    "answer": "<div><p>Ya, Anda bisa membeli lebih dari satu jenis produk asuransi sekaligus melalui telemarketing kami:</p><ul><li>Telp: 021-50886100</li><li>Mail: [EMAIL_ADDRESS]</li><li>WhatsApp: +62812 8626 1100</li></ul></div>"
+  },
+  {
+    "id": 6,
+    "question": "Bagaimana cara pembayaran untuk produk asuransi yang saya beli?",
+    "answer": "<p>Pembayaran dapat dilakukan melalui transfer bank, kartu kredit, atau metode pembayaran lainnya yang disediakan oleh Bang Jamin.</p>"
+  },
+  {
+    "id": 7,
+    "question": "Apakah saya bisa membatalkan polis asuransi setelah membelinya?",
+    "answer": "<p>Ya, Anda dapat membatalkan polis asuransi setelah membelinya, namun kebijakan pembatalan dan syaratnya dapat bervariasi tergantung pada produk.</p>"
+  },
+  {
+    "id": 8,
+    "question": "Apa itu Teman Bang Jamin?",
+    "answer": "<p>Teman merupakan panggilan dari Abang untuk Anda, para nasabah Bang Jamin.</p>"
+  },
+  {
+    "id": 9,
+    "question": "Apa itu Sahabat Bang Jamin?",
+    "answer": "<div><p>Sahabat merupakan panggilan dari Abang untuk para Mitra Bisnis yang menjadi penjembatan antara Abang dengan calon nasabah/nasabah. Bang Jamin menawarkan program afiliasi bagi mitra yang tertarik untuk bekerja sama.</p><ul><li>Telp: 021-50886100</li><li>Mail: [EMAIL_ADDRESS]</li><li>WhatsApp: +62812 8626 1100</li></ul></div>"
+  }
+]
